@@ -112,4 +112,4 @@ Then rebuild the extension: `npm run build`
 npm run dev
 ```
 
-Opens at http://localhost:5173
+Opens at http://localhost:3000
